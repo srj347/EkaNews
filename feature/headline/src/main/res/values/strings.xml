@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connect_internet_news">Connect to internet to see news</string>
+    <string name="no_internet">You\'re not connected to internet!</string>
+    <string name="please_try_again">Please try again later!</string>
+    <string name="no_news">Something went wrong</string>
+    <string name="connect_internet_to_search_news">Connect internet to search news!</string>
+</resources>

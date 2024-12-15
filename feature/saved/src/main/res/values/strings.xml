@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_bookmarks_empty_error">No saved updates</string>
+    <string name="feature_bookmarks_empty_description">Saved articles will be stored here to read later</string>
+</resources>
